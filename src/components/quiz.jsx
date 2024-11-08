@@ -4,7 +4,7 @@ import { Send } from '@mui/icons-material';
 
 
 function Quiz({ setIsFinish, answers, setAnswers }) {
-    const mainTime = 5;
+    const mainTime = 30;
     const [questions, setQuestions] = useState([]);
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [timeLeft, setTimeLeft] = useState(mainTime);
