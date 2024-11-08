@@ -2,7 +2,7 @@
 
 # Uygulama Reactjs framework ü ve MUI ile yazılmıştır. 
 
-## WebPage için : https://srnahmet.github.io/landingPage10/
+## WebPage için : https://srnahmet.github.io/landingPage10/](https://srnahmet.github.io/quizApp/
 
 # İş yoğunluğumdan dolayı kısıtlı bir sürede çalışma yapabildim. Eksiklerin farkındayım, iyi çalışmalar...
 
