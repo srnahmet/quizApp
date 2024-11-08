@@ -4,7 +4,7 @@ import { Check, Clear, Clear as ClearIcon, QuestionMark, RestartAlt } from '@mui
 
 const FinishTable = ({ answers }) => {
     return (
-        <TableContainer component={Paper} sx={{ padding: 4, marginTop: "5%", width: "70%" }}>
+        <TableContainer component={Paper} sx={{ padding: 4, marginTop: "5%",marginBottom: "5%", width: "70%" }}>
             <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <Typography variant="h5" sx={{ textAlign: "center" }}>Cevap Tablosu</Typography>
                 <Fab color="warning" sx={{ alignSelf: 'flex-end', margin: "10px" }} onClick={() => window.location.reload()} >
